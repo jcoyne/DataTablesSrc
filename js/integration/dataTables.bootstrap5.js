@@ -6,7 +6,7 @@
  * DataTables integration for Bootstrap 5.
  *
  * This file sets the defaults and adds options to DataTables to style its
- * controls using Bootstrap. See https://datatables.net/manual/styling/bootstrap
+ * controls using Bootstrap. See https://datatables.net/manual/styling/bootstrap5
  * for further information.
  */
 
